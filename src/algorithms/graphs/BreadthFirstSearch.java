@@ -70,7 +70,7 @@ public class BreadthFirstSearch {
 
 }
 
-class Node {
+/*class Node {
 
     int node_num;
     Node neighborNode;
@@ -102,4 +102,4 @@ class Node {
         this.visited = visited;
     }
 
-}
+}*/
